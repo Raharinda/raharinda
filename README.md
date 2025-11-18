@@ -1,16 +1,22 @@
 ## Hi there 👋
 
 <!--
-**Raharinda/raharinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Raha 👋
 
-Here are some ideas to get you started:
+👨‍💻 Web Developer & Cybersecurity Enthusiast  
+⚡ Currently learning Flask, Linux, and Pentesting  
+🌱 Loves stars & clean UI  
+🔥 Coding every day like my life depends on it  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🚀 Tech Stack
+- Backend: Python (Flask), Node.js  
+- Frontend: HTML, CSS, JS  
+- Tools: Linux, Git, VS Code  
+
+## 📊 GitHub Stats
+![Raha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raharinda&show_icons=true)
+
+## 🌟 Fun Fact
+I don’t fix bugs. Bugs fear me.
+
 -->
