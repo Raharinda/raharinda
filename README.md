@@ -11,11 +11,13 @@
 - Frontend: HTML, CSS, JS  
 - Tools: Linux, Git, VS Code  
 
-## 📊 GitHub Stats
-![Raha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raharinda&show_icons=true)
+
 
 ## 🌟 Fun Fact
 My fix for 90% problems:  
 `sudo reboot`  
 (And yes, it works way too often.)
+
+## 📊 GitHub Stats
+![Raha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raharinda&show_icons=true)
 
