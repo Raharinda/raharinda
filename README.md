@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-<!--
+
 # Hi, I'm Raha 👋
 
 👨‍💻 Web Developer & Cybersecurity Enthusiast  
-⚡ Currently learning Flask, Linux, and Pentesting  
+⚡ Currently learning Flask, Nextjs, and Pentesting  
 🌱 Loves stars & clean UI  
 🔥 Coding every day like my life depends on it  
 
@@ -19,4 +19,3 @@
 ## 🌟 Fun Fact
 I don’t fix bugs. Bugs fear me.
 
--->
