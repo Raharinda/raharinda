@@ -8,7 +8,7 @@
 
 ## 🚀 Tech Stack
 - Backend: Python (Flask), Node.js  
-- Frontend: HTML, CSS, JS  
+- Frontend: Next.js/React, Tailwindcss
 - Tools: Linux, Git, VS Code  
 
 
